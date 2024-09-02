@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on a chatbot for mental healthcare and life coaching. <br>👯 I’m looking to collaborate on creating a viable open source AI agent for life coaching. <br>🌱 I’m currently learning new technologies for AI agents and for deep learning . <br>💬 Ask me about deep learning,  self supervised learning, and computervision. <br>⚡ Fun fact: The observable universe is more than 90B light years across,  but we estimate the universe to be 14B light years old.
+🔭 I’m currently working on a chatbot for mental healthcare and life coaching. <br>👯 I’m looking to collaborate on creating a viable open source AI agent for life coaching. <br>🌱 I’m currently learning new technologies for AI agents and for deep learning . <br>💬 Ask me about deep learning,  self supervised learning, and computervision.  <br>📫 How to reach me: Reach me on LinkedIn <br> ⚡ Fun fact: The observable universe is more than 90B light years across,  but we estimate the universe to be 14B light years old.
 
 
 ## 🌐 Socials:
@@ -41,9 +41,10 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kmamine&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=kmamine&icon=2&color=9)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-ReadMe.md
-Displaying ReadMe.md.
+<!--ReadMe.md
+Displaying ReadMe.md. -->
