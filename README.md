@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Skip to content
-Using Gmail with screen readers
-Conversations
-14.63 GB of 15 GB (97%) used
-Terms · Privacy · Program Policies
-Last account activity: 0 minutes ago
-Currently being used in 3 other locations · Details
+
 # 💫 About Me:
 🔭 I’m currently working on a chatbot for mental healthcare and life coaching. <br>👯 I’m looking to collaborate on creating a viable open source AI agent for life coaching. <br>🌱 I’m currently learning new technologies for AI agents and for deep learning . <br>💬 Ask me about deep learning,  self supervised learning, and computervision. <br>⚡ Fun fact: The observable universe is more than 90B light years across,  but we estimate the universe to be 14B light years old.
 
