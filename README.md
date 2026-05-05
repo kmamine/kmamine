@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leewalter&label=Profile%20views&color=0e75b6&style=flat" alt="leewalter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmamine&label=Profile%20views&color=0e75b6&style=flat" alt="leewalter" /> </p>
 
-<p align="left"> <a href="https://github.com/eya-abid/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eya-abid" alt="eya-abid" /></a> </p>
+<p align="left"> <a href="https://github.com/eya-abid/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmamine" alt="kmamine" /></a> </p>
 
 
 <!--
