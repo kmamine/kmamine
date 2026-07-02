@@ -78,7 +78,7 @@ I'm an AI/ML researcher in Paris — **AI Researcher at F.initiatives** and **AI
 
 <img alt="Streak" src="https://streak-stats.demolab.com/?user=kmamine&theme=tokyonight&hide_border=true"/>
 
-<img width="95%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kmamine&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
+<!-- <img width="95%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kmamine&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/> -->
 
 </div>
 
