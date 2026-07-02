@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E4D92,100:1E90FF&height=200&section=header&text=Mohamed%20Amine%20Kerkouri&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=PhD%20%C2%B7%20Visual%20Attention%20%26%20Scanpaths%20%C2%B7%20LLMs%20%26%20RAG%20%C2%B7%20Trustworthy%20AI&descSize=16&descAlignY=58"/>
+<img width="100%" alt="Mohamed Amine Kerkouri" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E4D92,100:1E90FF&height=200&section=header&text=Mohamed%20Amine%20Kerkouri&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=PhD%20%C2%B7%20Visual%20Attention%20%26%20Scanpaths%20%C2%B7%20LLMs%20%26%20RAG%20%C2%B7%20Trustworthy%20AI&descSize=16&descAlignY=58"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kmamine&color=1E90FF&style=for-the-badge&label=Profile+Views)](https://github.com/kmamine)
+[![Followers](https://img.shields.io/github/followers/kmamine?style=for-the-badge&color=1E90FF&labelColor=0E4D92&logo=github)](https://github.com/kmamine?tab=followers)
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vpWieeAAAAAJ&hl=en)
 [![Citations](https://img.shields.io/badge/Citations-190%2B-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vpWieeAAAAAJ&hl=en)
@@ -28,6 +31,10 @@
 > **What I work on:** how a system arrives at an answer — and how faithful that process is to the evidence behind it. I study it across human gaze (scanpaths), model reasoning traces, and retrieval-grounded systems, and I build the measurement harness that *checks* the answer rather than trusting it.
 
 I'm an AI/ML researcher in Paris — **AI Researcher at F.initiatives** and **AIOps Architect at NeoPhi**.
+
+🔭 **Currently:** foveated multimodal models and the faithfulness of machine vs. human gaze · retrieval and systematic-review agents at NeoPhi
+&nbsp;&nbsp;•&nbsp;&nbsp; 🌱 **Interests:** visual attention · trustworthy & interpretable AI · LLM post-training
+&nbsp;&nbsp;•&nbsp;&nbsp; 💬 **Ask me about** scanpath modeling, RAG faithfulness, and model merging
 
 ## 👁️ Visual attention & gaze
 
@@ -57,13 +64,23 @@ I'm an AI/ML researcher in Paris — **AI Researcher at F.initiatives** and **AI
 
 <sub>Full list on [Google Scholar](https://scholar.google.com/citations?user=vpWieeAAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Mohamed-Kerkouri-2).</sub>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kmamine&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmamine&layout=compact&hide_border=true&langs_count=8&title_color=1E90FF"/>
+<img alt="Dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+### 📊 GitHub activity
+
+<img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=kmamine&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmamine&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+
+<img height="165" alt="Streak" src="https://streak-stats.demolab.com/?user=kmamine&theme=tokyonight&hide_border=true"/>
+
+<img width="95%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kmamine&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
+
+<img width="95%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=kmamine&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0E4D92&height=100&section=footer"/>
