@@ -57,6 +57,10 @@ I'm an AI/ML researcher in Paris — **AI Researcher at F.initiatives** and **AI
 
 <sub>Full list on [Google Scholar](https://scholar.google.com/citations?user=vpWieeAAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Mohamed-Kerkouri-2).</sub>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kmamine&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF"/>
