@@ -3,7 +3,7 @@
 # Mohamed Amine Kerkouri
 
 <a href="https://github.com/kmamine">
-<img alt="AI/ML Researcher · PhD, Computer Vision" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=1E90FF&center=true&vCenter=true&width=820&lines=AI+%2F+ML+Researcher+%C2%B7+PhD%2C+Computer+Vision;Visual+Attention+%26+Scanpath+Modeling;LLMs+%2F+RAG+%C2%B7+Trustworthy+AI;I+build+harnesses+that+check+the+answer"/>
+<img alt="Mohamed Amine Kerkouri — AI/ML Researcher, PhD in Computer Vision" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=1E90FF&center=true&vCenter=true&width=820&lines=AI+%2F+ML+Researcher+%C2%B7+PhD%2C+Computer+Vision;Modeling+how+eyes+move+%E2%80%94+scanpaths+%26+gaze;Foveated+MLLMs+%C2%B7+RAG+faithfulness;Trustworthy+AI%3A+the+process%2C+not+just+the+answer;Studying+the+path%2C+not+only+the+destination"/>
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kmamine&color=1E90FF&style=for-the-badge&label=Profile+Views)](https://github.com/kmamine)
