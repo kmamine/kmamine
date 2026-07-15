@@ -50,8 +50,7 @@ I'm an AI/ML researcher in Paris — **AI Researcher at F.initiatives** and **AI
 
 ## 🧠 LLMs, reasoning & trustworthy AI
 
-- **[ThinkBench](https://github.com/kmamine/ThinkProb)** — profiles LLM reasoning by turning Chain-of-Thought into Thought Graphs (non-generative) and scoring a 22-dimensional cognitive profile
-- **[G-JEPA](https://github.com/kmamine/CVPR2026W-G-JEPA)** — energy-based JEPA for token-level multimodal grounding, evidence provenance, and hallucination detection
+- **[ThinkProb](https://github.com/kmamine/ThinkProb)** — profiles LLM reasoning by turning Chain-of-Thought into Thought Graphs (non-generative) and scoring a 22-dimensional cognitive profile
 - **[HeReFaNMi](https://github.com/kmamine/herefanmi-redo)** — *Health-Related Fake News Mitigation*: tackles online health-news misinformation by retrieving evidence and triaging claims as trustworthy / doubtful / fake, with source validation · *EU NGI Search–funded*
 - **[Enlighten-AI](https://github.com/kmamine/Enlighten-AI)** — a mental-health & life-coaching assistant grounded in Dr. K's (HealthyGamer.gg) video transcripts: citation-grounded RAG answering with timestamped sources, safety guardrails, and a red-team report
 
