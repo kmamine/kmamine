@@ -7,7 +7,7 @@
 </a>
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vpWieeAAAAAJ&hl=en)
-[![Citations](https://img.shields.io/badge/Citations-220%2B-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vpWieeAAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/Citations-244%2B-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vpWieeAAAAAJ&hl=en)
 ![h-index](https://img.shields.io/badge/h--index-8-4285F4?style=for-the-badge)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Amine--CV-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Amine-CV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-kerkouri)
